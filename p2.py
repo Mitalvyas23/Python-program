@@ -1,3 +1,6 @@
+'''TOPIC = FIND LIST LENGTH WITHOUT USING LENGTH FUNCTION
+   PROGRAMMER = Mital vyas'''
+
 def length(list):
     leng = int(input('enter list length : '))
     print('enter elements in list : ')
